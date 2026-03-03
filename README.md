@@ -68,10 +68,10 @@
 
 ##  Технологический стек
 
-- **Frontend:** `React` / `Vue.js`
-- **Backend:** `Node.js` + `Express`
-- **База данных:** `PostgreSQL`
-- **Графики:** `Chart.js` / `D3.js`
+- **Frontend:** `PyQt6`
+- **Backend:** `Python` + `FastAPI`
+- **База данных:** `SQLite`
+- **Графики:** `mathplotLib`
 
 ---
 
